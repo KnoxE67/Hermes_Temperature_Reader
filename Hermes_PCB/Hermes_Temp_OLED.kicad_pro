@@ -526,7 +526,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Hermes_Temp_OLED.step",
       "svg": "",
       "vrml": ""
     },
