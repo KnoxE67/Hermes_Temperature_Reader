@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Sensor")(type "KiCad")(uri "${KIPRJMOD}/Files/LM75AD_118.kicad_sym")(options "")(descr ""))
+  (lib (name "Screen")(type "KiCad")(uri "${KIPRJMOD}/Files/DM-OLED096-636.kicad_sym")(options "")(descr ""))
+)
