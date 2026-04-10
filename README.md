@@ -17,11 +17,11 @@ I also did this project because I was bored and waiting for my other project Pat
 
 3D Model:
 
-<img width="842" height="659" alt="3D Viewer" src="https://github.com/user-attachments/assets/377d03e8-b6b6-46f5-9510-d886ce651887" />
+<img width="790" height="788" alt="3D Viewer" src="https://github.com/user-attachments/assets/9f2c2aa5-985f-4801-bbda-4f6e0df4ff7f" />
 
 PCB:
 
-<img width="546" height="573" alt="PCB Viewer" src="https://github.com/user-attachments/assets/17ed1b97-9e18-40e7-a126-7f6c34a2ad4a" />
+<img width="597" height="698" alt="PCB Viewer" src="https://github.com/user-attachments/assets/6dffe948-e2c0-40be-b319-f1b6c16abb95" />
 
 Schematic: 
 
